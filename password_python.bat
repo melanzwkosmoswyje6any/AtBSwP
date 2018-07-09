@@ -1,0 +1,1 @@
+@py.exe E:\Users\K55VM\Desktop\python\Ch6_Password_Locker.py %*
